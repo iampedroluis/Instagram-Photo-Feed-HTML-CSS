@@ -1,1 +1,1 @@
-<iframe src="https://giphy.com/embed/KqqA2dMDWSNtztGiB1" width="1080" height="420" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/KqqA2dMDWSNtztGiB1">via GIPHY</a></p>
+![image](https://github.com/iampedroluis/iampedroluis-Instagram-Photo-Feed-HTML-CSS/assets/83560861/19b5bc77-5ba5-464b-9074-512e393240bb){width="1080px" height="720px"}
