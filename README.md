@@ -1,1 +1,1 @@
-https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTJ3ejYybzl1Mm45eGp0bXBubTN3bWYxZGwzeXJjdHdraXl0NWNiNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KqqA2dMDWSNtztGiB1/giphy.gif
+![image|300](https://github.com/iampedroluis/iampedroluis-Instagram-Photo-Feed-HTML-CSS/assets/83560861/f963dbd9-a2c3-4935-870b-63634ad0ce24)
